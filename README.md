@@ -20,4 +20,5 @@ Trac Ticket Specifics (TracTicketPage)
  * accept
  * set_comment
  * submit_changes
- * 
+
+This requires 11pylib's scriptlib.py
